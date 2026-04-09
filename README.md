@@ -1,5 +1,4 @@
 ## Hi there 👋
-- 🔭 Interested mainly in Astronomy and Astrophysics
 
 <!--
 **silasja/silasja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
